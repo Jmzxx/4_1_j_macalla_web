@@ -1,0 +1,19 @@
+{
+  "name": "4_1_j_macalla_web",
+  "version": "1.0.0",
+  "description": "This is an example of a full stack web application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmzxx/4_1_j_macalla_web.git"
+  },
+  "author": "Jaymz Macalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jmzxx/4_1_j_macalla_web/issues"
+  },
+  "homepage": "https://github.com/Jmzxx/4_1_j_macalla_web#readme"
+}
