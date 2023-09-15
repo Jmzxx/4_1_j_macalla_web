@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Jmzxx/4_1_j_macalla_web/issues"
   },
-  "homepage": "https://github.com/Jmzxx/4_1_j_macalla_web#readme"
+  "homepage": "https://github.com/Jmzxx/4_1_j_macalla_web#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
 }
